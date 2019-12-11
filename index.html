@@ -1,16 +1,17 @@
 <link rel="manifest" href="manifest.webmanifest">
 <script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', function() {
-    navigator.serviceWorker.register('/pwa-builder.js').then(function(registration) {
-      // Registration was successful
-      console.log('ServiceWorker registration successful with scope: ', registration.scope);
-    }, function(err) {
-      // registration failed :(
-      console.log('ServiceWorker registration failed: ', err);
-    });
-  });
-}
+document.addEventListener('DOMContentLoaded', init, false);
+function init() {
+
+	if("serviceWorker" in navigator) {
+		navigator.serviceWorker.register('pwa-builder.js')
+		.then((registration) => {
+			console.log('Service Worker installed!');
+		}).catch((err) => {
+			console.error('Service Worker failed', err);
+		});
+	}
+
 }
 </script>  
 <center>
