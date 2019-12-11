@@ -23,3 +23,17 @@ if ("serviceWorker" in navigator) {
 <center>
 <iframe src="https://www.supermechs.com/" style="border:0px #ffffff none;" name="SuperMechs" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="1000px" allowfullscreen></iframe>
 </center>
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('worker.js');
+}
+
+// link to a image file
+var iconUrl = 'icon.png';
+
+// create the <img> html element
+// on first load it will request the image
+// second time it will load it from cache directly thanks to the service worker
+var imgElement = document.createElement('img');
+imgElement.src = iconUrl;
+</script>  
