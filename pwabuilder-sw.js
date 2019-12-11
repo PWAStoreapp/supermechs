@@ -37,4 +37,3 @@ self.addEventListener('activate', event => {
   );
 });
 
-Change the name
