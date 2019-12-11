@@ -10,8 +10,6 @@
     "description": "Build, Fight, Prevail!",
     "orientation": "any",
     "background_color": "transparent",
-    "related_applications": [],
-    "prefer_related_applications": false,
     "icons": [
         {
             "src": "/images/e10f26e9-c58c-bfe2-b97e-47b46ff6b452.webPlatform.png",
