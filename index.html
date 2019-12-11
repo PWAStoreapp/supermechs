@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', init, false);
 function init() {
 
 	if("serviceWorker" in navigator) {
-		navigator.serviceWorker.register('pwa-builder.js')
+		navigator.serviceWorker.register('pwabuilder-sw.js')
 		.then((registration) => {
 			console.log('Service Worker installed!');
 		}).catch((err) => {
