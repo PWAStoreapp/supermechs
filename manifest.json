@@ -1,0 +1,113 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "SuperMechs",
+    "scope": "/supermechs/",
+    "display": "browser",
+    "start_url": "https://pwastoreapp.github.io/supermechs/",
+    "short_name": "SuperMech",
+    "theme_color": "transparent",
+    "description": "Build, Fight, Prevail!",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/e10f26e9-c58c-bfe2-b97e-47b46ff6b452.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7a6c679a-1c71-bbb6-2a6c-2e901b8a229a.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/df02c25f-243f-bfbc-2ed3-93bc1d79712e.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/45fbaa44-462b-a65e-d652-6c4d49309cfe.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4a2dcb6f-6c5b-055f-8015-b92cf73e9155.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1c2b259e-a612-f67a-a4b3-e2a23c6508f5.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/fb95426a-81ab-9efe-8856-9ef147a1abdf.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/20b12146-8a6e-8c9c-a327-fb7f57479475.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9077c84a-7a14-04af-92eb-4bd09ef23ce0.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1ba7da49-f030-dfed-cd74-87f2ac4fb415.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3ab889ad-dfff-fc10-9907-df814ababab3.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/957502b5-0006-bf0f-0714-64cbece4dcad.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/83ecd009-503e-45a7-55f1-045e37c1f47d.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1600f241-a174-864d-a914-17b065de9696.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f5712583-8da8-85fd-407f-5a4e84f5e3ac.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/039b3978-47a1-e53a-6a1e-47b40c92b5d3.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5bea4d10-8da4-030d-8bc1-ecda1b7042d6.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f30b7a99-92c3-e42c-0f75-278a50eccbdd.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1cf96312-351c-f050-a0c8-0f07ed316d30.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": []
+}
