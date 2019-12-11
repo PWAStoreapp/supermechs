@@ -3,7 +3,7 @@
 	"lang" : "English",
 	"name" : "SuperMechs",
 	"scope" : "/supermechs/",
-	"display" : "browser",
+	"display" : "fullscreen",
 	"start_url" : "https://pwastoreapp.github.io/supermechs/",
 	"short_name" : "SuperMech",
 	"theme_color" : "transparent",
